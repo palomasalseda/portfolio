@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Voyage';
+  src: url(vj-voyage-font-1693937411-0/voyage-regular.otf);
+}
+
 body {
   background-color: #EEC4B2;
   font-family: 'Montserrat', sans-serif;
@@ -6,6 +11,7 @@ body {
 h2{
   color: bisque;
   font-style: italic;
+  font-weight: bolder;
 }
 
 
